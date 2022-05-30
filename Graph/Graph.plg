@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Graph - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\zht\AppData\Local\Temp\RSPC94A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Graph.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\一个程序员的求生之路\大二上\数据结构\11-26\Graph\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\zht\AppData\Local\Temp\RSPC94A.tmp" 
+Creating temporary file "C:\Users\zht\AppData\Local\Temp\RSPC94B.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Graph.pdb" /debug /machine:I386 /out:"Debug/Graph.exe" /pdbtype:sept 
+".\Debug\Graph.obj"
+".\Debug\main.obj"
+".\Debug\SeqQueue.obj"
+]
+Creating command line "link.exe @C:\Users\zht\AppData\Local\Temp\RSPC94B.tmp"
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+D:\一个程序员的求生之路\大二上\数据结构\11-26\Graph\main.cpp(8) : warning C4035: 'GetCycleCount' : no return value
+Linking...
+
+
+
+<h3>Results</h3>
+Graph.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

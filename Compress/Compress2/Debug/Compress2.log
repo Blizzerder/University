@@ -1,0 +1,54 @@
+﻿生成启动时间为 2020/4/6 14:25:50。
+     1>项目“D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Compress2\Compress2.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Compress2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Compress2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Compress2Dlg.cpp
+         Compress2Dlg.cpp
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(155): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(165): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(172): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(242): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(279): warning C4101: “stringc”: 未引用的局部变量
+     1>d:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\compress2\compress2\huff.h(276): warning C4101: “stringa”: 未引用的局部变量
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Compress2.res" Compress2.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Debug\Compress2.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Compress2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Debug\Compress2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Debug\Compress2.lib" /MACHINE:X86 Debug\Compress2.res
+         Debug\Compress2.exe.embed.manifest.res
+         Debug\Compress2.obj
+         Debug\Compress2Dlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Compress2.exe.embed.manifest" /manifest Debug\Compress2.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Compress2.vcxproj -> D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Debug\Compress2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Compress2.unsuccessfulbuild”。
+         正在对“Debug\Compress2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\一个程序员的求生之路\大二上\19180221张焕庭数据结构课程设计\19180221张焕庭数据结构课程设计\Compress2\Compress2\Compress2.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.52
